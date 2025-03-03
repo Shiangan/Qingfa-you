@@ -1,5 +1,5 @@
 @font-face {
-    font-family: '辰魚落雁體.ttf';
+    font-family: 'ChenYu';
     src: url('辰魚落雁體.ttf') format('truetype'); /* 使用 truetype 格式 */
 }
 
@@ -34,7 +34,7 @@ header .logo {
 }
 
 header h1 {
-    font-family: '清松手写体5.ttf', Arial; /* 使用辰魚落雁體 */
+    font-family: 'ChenYu', Arial; /* 使用辰魚落雁體 */
     font-size: 38px; /* 根据需要调整字体大小 */
     color: #333; /* 字体颜色 */
     margin: 0; /* 清除默认的 margin */
@@ -60,7 +60,7 @@ header h1 {
 
 /* 应用到“陳顯銘訃告” */
 #header h1 {
-    font-family: '辰魚落雁體.ttf', sans-serif; /* 使用文鼎海報體 */
+    font-family: 'ChenYu', sans-serif; /* 使用文鼎海報體 */
 }
 
 /* 訃告正本部分样式 */
@@ -152,7 +152,6 @@ header h1 {
 
 /* 致贈花籃部分样式 */
 #donate-flower {
-    font-family: '辰魚落雁體.ttf';
     text-align: center; /* 内容居中对齐 */
     margin: 20px auto; /* 上下边距和水平居中 */
     max-width: 800px; /* 最大宽度 */
@@ -160,21 +159,21 @@ header h1 {
 }
 
 #donate-flower h3 {
-    font-family: '辰魚落雁體.ttf';
+    font-family: 'ChenYu', Arial;
     font-size: 28px; /* 标题字体大小 */
     margin-bottom: 20px; /* 标题底部边距 */
     color: #333; /* 标题颜色 */
 }
 
 #donate-flower p {
-    font-family: '辰魚落雁體.ttf', Arial;
+    font-family: 'ChenYu', Arial;
     font-size: 28px; /* 内容字体大小 */
     margin: 10px 0; /* 内容上下边距 */
     color: #555; /* 内容颜色 */
 }
 
 #donate-flower a.btn {
-    font-family: '辰魚落雁體.ttf', Arial;
+    font-family: 'ChenYu', Arial;
     display: inline-block;
     padding: 10px 20px;
     font-size: 26px; /* 按钮字体大小 */
@@ -257,7 +256,7 @@ header h1 {
 /* 页脚样式 */
 footer {
     text-align: center;
-    font-family: '辰魚落雁體.ttf'; /* 设置字体为辰魚落雁體 */
+    font-family: 'ChenYu', serif; /* 设置字体为辰魚落雁體 */
     padding: 20px;
     background-color: #f1f1f1; /* 页脚背景颜色 */
     border-top: 1px solid #ddd; /* 上边框 */
